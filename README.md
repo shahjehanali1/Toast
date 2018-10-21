@@ -31,7 +31,7 @@ Then, to use the grid, you'll need a wrap (provided in your own CSS) and a `.gri
 </div>
 ```
 
-## Customising
+## Customizing
 
 `$toast-grid-namespace` and `$toast-grid-column-namespace` adjusts the class names for the grid. With default values, grid wrappers have a class of `.grid` and columns `.grid__col`.
 
